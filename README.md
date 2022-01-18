@@ -1,4 +1,4 @@
-# [Angular](www.angular.io)
+# [Angular](https://angular.io/)
 this ist the main page for my tutorial with tips & tricks.
 
 
