@@ -1,5 +1,6 @@
-# Angular
-this ist the main page for the tutorial
+# [Angular](www.angular.io)
+this ist the main page for my tutorial with tips & tricks.
+
 
 ## Getting Started - StackBlitz 
 * [Getting Started](https://stackblitz.com/edit/angular-6siyaz-zddrxd?file=src/app/product-alerts/product-alerts.component.spec.ts)
