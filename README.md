@@ -11,6 +11,8 @@ this ist the main page for the tutorial
 
 ## Youtube
 * [The Basics -> Angular Website, AngularJS Hello World](https://youtu.be/uFTFsKmkQnQ)
+### [freecodecamp.org](https://www.freecodecamp.org/)
+* [Angular 11 Tutorial - Code a Project from Scratch](https://youtu.be/LiOzTQAz13Q)
 
 # Starting Point
 * [theBasics](https://github.com/ChaosJD/angHelloWorld)
