@@ -16,7 +16,8 @@ this ist the main page for my tutorial with tips & tricks.
 
 ### Channel
 * [Angular](https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw)
-* 
+
+
 # Starting Point
 * [theBasics](https://github.com/ChaosJD/angHelloWorld)
 
