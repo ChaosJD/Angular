@@ -19,3 +19,6 @@ this ist the main page for my tutorial with tips & tricks.
 * [Angular](https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw)
 # Starting Point
 * [theBasics](https://github.com/ChaosJD/angHelloWorld)
+
+# tuts
+* [AngularJS Tutorial - w3s](https://www.w3schools.com/angular/default.asp)
