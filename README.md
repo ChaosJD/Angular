@@ -11,9 +11,6 @@ this ist the main page for my tutorial with tips & tricks.
 ## AngularIo - Try it!
 
 ## Youtube
-### John Lindquist
-* [The Basics -> Angular Website, AngularJS Hello World](https://youtu.be/uFTFsKmkQnQ)
-
 ### Channel
 * [Angular](https://www.youtube.com/channel/UCbn1OgGei-DV7aSRo_HaAiw)
 
