@@ -17,6 +17,7 @@ this ist the main page for my tutorial with tips & tricks.
 
 # Starting Point
 * [theBasics](https://github.com/ChaosJD/angHelloWorld)
+* [Schwarzmueller](https://github.com/ChaosJD/AngularSchwarzmueller)
 
 # tuts
 * [Angular 11 Tutorial, Code a Project from Scratch - freeCodeCamp.org](https://youtu.be/LiOzTQAz13Q)
